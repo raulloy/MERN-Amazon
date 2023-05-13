@@ -43,3 +43,11 @@ main {
 .product-details span {
   color: #ffc000;
 }
+.img-large {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-large img {
+  max-width: 60%;
+}
