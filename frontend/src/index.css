@@ -14,6 +14,9 @@ main {
   border: none;
   color: #000000;
 }
+.rating span {
+  color: #ffc000;
+}
 .product-container {
   margin: 1rem 0;
   display: flex;
@@ -39,9 +42,6 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-}
-.product-details span {
-  color: #ffc000;
 }
 .img-large {
   display: flex;
