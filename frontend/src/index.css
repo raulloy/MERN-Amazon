@@ -47,6 +47,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1.5rem;
 }
 .img-large img {
   max-width: 60%;
