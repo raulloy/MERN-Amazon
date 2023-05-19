@@ -1,7 +1,6 @@
 const data = {
   products: [
     {
-      _id: '1',
       name: 'Apple MacBook Pro',
       slug: 'apple-macbook-pro',
       category: 'Electronics',
@@ -15,7 +14,6 @@ const data = {
         'The Apple MacBook Pro is a powerful and versatile laptop, perfect for professionals and creatives.',
     },
     {
-      _id: '2',
       name: 'Samsung Galaxy S21',
       slug: 'samsung-galaxy-s21',
       category: 'Electronics',
@@ -29,7 +27,6 @@ const data = {
         'The Samsung Galaxy S21 is a top-of-the-line smartphone with cutting-edge features and performance.',
     },
     {
-      _id: '3',
       name: 'Bose QuietComfort 35 II',
       slug: 'bose-quietcomfort-35-ii',
       category: 'Electronics',
@@ -43,7 +40,6 @@ const data = {
         'The Bose QuietComfort 35 II is a premium noise-cancelling headphone that delivers exceptional sound quality and comfort.',
     },
     {
-      _id: '4',
       name: 'Nespresso VertuoPlus Coffee Maker',
       slug: 'nespresso-vertuoplus-coffee-maker',
       category: 'Home',
@@ -57,7 +53,6 @@ const data = {
         'The Nespresso VertuoPlus Coffee Maker is a stylish and easy-to-use appliance that makes delicious coffee with just the touch of a button.',
     },
     {
-      _id: '5',
       name: 'iRobot Roomba 960',
       slug: 'irobot-roomba-960',
       category: 'Home',
@@ -71,7 +66,6 @@ const data = {
         'The iRobot Roomba 960 is a high-performance robotic vacuum cleaner that cleans your floors with precision and ease.',
     },
     {
-      _id: '6',
       name: 'Instant Pot Duo Nova Pressure Cooker',
       slug: 'instant-pot-duo-nova-pressure-cooker',
       category: 'Home',
